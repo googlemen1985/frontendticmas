@@ -1,0 +1,19 @@
+body {
+    align-content: center;
+    background-color: rgba(127, 255, 212, 0.13);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#demo {
+    color: rosybrown;
+}
+#foto {
+    border-radius: 50%;
+    padding: auto;
+    border-color: blueviolet;
+    border-style: double;
+}
+#importante {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    font-weight: 400;
+}
